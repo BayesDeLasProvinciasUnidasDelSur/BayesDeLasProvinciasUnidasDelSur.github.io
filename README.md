@@ -1,5 +1,5 @@
 # Seminario "Verdades Empíricas"
-## Acuerdos inte...   ...   ...    ...umbre
+## Acuerdos inte...   ...umbre
 
 Contactos a **bayesdelsur@gmail.com**
 
@@ -15,37 +15,50 @@ A diferencia de las ciencias formales, que validan sus proposiciones dentro de s
 
 ### Primera Parte: Fundamentos
 
-#### Capitulo 1
+#### Capítulo 1
 ![verdades_empiricas-3](static/verdades_empiricas-3.png)
-
-#### Capitulo 2
+--------------------------------------------------
+#### Capítulo 2
 ![verdades_empiricas-4](static/verdades_empiricas-4.png)
-
-#### Capitulo 3
+--------------------------------------------------
+#### Capítulo 3
 ![verdades_empiricas-5](static/verdades_empiricas-5.png)
-#### Capitulo 4
+--------------------------------------------------
+#### Capítulo 4
 
 ![verdades_empiricas-6](static/verdades_empiricas-6.png)
-#### Capitulo 5
+--------------------------------------------------
+#### Capítulo 5
 ![verdades_empiricas-7](static/verdades_empiricas-7.png)
-#### Capitulo 6
+--------------------------------------------------
+#### Capítulo 6
 ![verdades_empiricas-8](static/verdades_empiricas-8.png)
 
+--------------------------------------------------
 ### Segunda Parte: Metodologı́as
 
-#### Capitulo 7
+#### Capítulo 7
 ![verdades_empiricas-9](static/verdades_empiricas-9.png)
-#### Capitulo 8
+--------------------------------------------------
+#### Capítulo 8
 ![verdades_empiricas-10](static/verdades_empiricas-10.png)
-#### Capitulo 9
+--------------------------------------------------
+#### Capítulo 9
 ![verdades_empiricas-11](static/verdades_empiricas-11.png)
-#### Capitulo 10
+--------------------------------------------------
+#### Capítulo 10
 ![verdades_empiricas-12](static/verdades_empiricas-12.png)
-#### Capitulo 11
+--------------------------------------------------
+#### Capítulo 11
 ![verdades_empiricas-13](static/verdades_empiricas-13.png)
-#### Capitulo 12
+--------------------------------------------------
+#### Capítulo 12
 ![verdades_empiricas-14](static/verdades_empiricas-14.png)
+--------------------------------------------------
 
-### Mision
+### Misión
 
 ![verdades_empiricas-15](static/verdades_empiricas-15.png)
+--------------------------------------------------
+
+![verdades_empiricas-15](static/pEQb.png)
