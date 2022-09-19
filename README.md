@@ -17,48 +17,71 @@ A diferencia de las ciencias formales, que validan sus proposiciones dentro de s
 
 #### Capítulo 1
 ![verdades_empiricas-3](static/verdades_empiricas-3.png)
+
 --------------------------------------------------
+
 #### Capítulo 2
 ![verdades_empiricas-4](static/verdades_empiricas-4.png)
+
 --------------------------------------------------
+
 #### Capítulo 3
 ![verdades_empiricas-5](static/verdades_empiricas-5.png)
+
 --------------------------------------------------
+
 #### Capítulo 4
 
 ![verdades_empiricas-6](static/verdades_empiricas-6.png)
+
 --------------------------------------------------
+
 #### Capítulo 5
 ![verdades_empiricas-7](static/verdades_empiricas-7.png)
+
 --------------------------------------------------
+
 #### Capítulo 6
 ![verdades_empiricas-8](static/verdades_empiricas-8.png)
 
 --------------------------------------------------
+
 ### Segunda Parte: Metodologı́as
 
 #### Capítulo 7
 ![verdades_empiricas-9](static/verdades_empiricas-9.png)
+
 --------------------------------------------------
+
 #### Capítulo 8
 ![verdades_empiricas-10](static/verdades_empiricas-10.png)
+
 --------------------------------------------------
+
 #### Capítulo 9
 ![verdades_empiricas-11](static/verdades_empiricas-11.png)
+
 --------------------------------------------------
+
 #### Capítulo 10
 ![verdades_empiricas-12](static/verdades_empiricas-12.png)
+
 --------------------------------------------------
+
 #### Capítulo 11
 ![verdades_empiricas-13](static/verdades_empiricas-13.png)
+
 --------------------------------------------------
+
 #### Capítulo 12
 ![verdades_empiricas-14](static/verdades_empiricas-14.png)
+
 --------------------------------------------------
 
 ### Misión
 
 ![verdades_empiricas-15](static/verdades_empiricas-15.png)
+
 --------------------------------------------------
 
 ![verdades_empiricas-15](static/pEQb.png)
