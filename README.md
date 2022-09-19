@@ -1,4 +1,4 @@
-# Seminario "Verdades Empíricas": Acuerdos inte...   ...umbre
+# Seminario *Verdades Empíricas: Acuerdos inte...   ...umbre*
 
 Contactos a **bayesdelsur@gmail.com**
 
