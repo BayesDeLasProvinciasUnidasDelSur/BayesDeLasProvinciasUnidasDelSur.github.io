@@ -5,7 +5,7 @@ Contactos a **bayesdelsur@gmail.com**
 
 ![Tapa](static/verdades_empiricas-1.png)
 
--------------------------------------------------------
+---------------------------------------------------------------
 
 ## Objetivos
 
