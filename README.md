@@ -2,9 +2,9 @@
 
 El grupo participa de:
 
-Comunidad Bayesiana Plurinacional |  Empresa Pacha Suyus | Seminario Verdades Empíricas
+Comunidad Bayesiana Plurinacional |  Laboratorio de Inferencia Bayesiana | Seminario Verdades Empíricas
 :-------------------------:|:-------------------------:|:-------------------------:
-[![Comunidad](static/bayes.png)](https://comunidadbayesianaplurinacional.github.io/) | [![Comunidad](static/blecha.png)](https://pachasuyus.github.io/) | [![Comunidad](static/pEQb.png)](https://verdadesempiricas.github.io/)
+[![Comunidad](static/bayes.png)](https://comunidadbayesianaplurinacional.github.io/) | [![Comunidad](static/blecha.png)](https://InferenciaBayesiana.github.io/) | [![Comunidad](static/pEQb.png)](https://verdadesempiricas.github.io/)
 
 .|.
 :-------------------------:|:-------------------------:
