@@ -5,10 +5,10 @@
 
 El grupo **Bayes de la Provincias Unidas del Sur** participa de:
 
-[Seminario Verdades Empíricas](https://verdadesempiricas.github.io/) |  [Laboratorio Pacha Suyus](https://PachaSuyus.github.io/) | [Comunidad Bayesiana Plurinacional](https://comunidadbayesianaplurinacional.github.io/)
+[Verdades Empíricas](https://verdadesempiricas.github.io/) |  [Pacha Suyus](https://PachaSuyus.github.io/) | [Comunidad Bayesiana Plurinacional](https://comunidadbayesianaplurinacional.github.io/)
 :-------------------------:|:-------------------------:|:-------------------------:
-Epistemología y metodología | Metodología y aplicaciones  | Aplicaciones y herramientas
-Teórica | Práctica | Laboratorio
+Teórica: epistemología y metodología | Práctica: metodología y aplicaciones | Laboratorio: aplicaciones y herramientas
+Fundamento para alcanzar acuerdos intersubjetivos en contextos de incertidumbre | Especificación y evaluación del valor de verdad de modelos causales alternativos | Desarrollo de un *framework* para la descripción colaborativa de modelos causales
 [![Comunidad](static/pEQb.png)](https://verdadesempiricas.github.io/) | [![Comunidad](static/blecha.png)](https://PachaSuyus.github.io/) | [![Comunidad](static/bayes.png)](https://comunidadbayesianaplurinacional.github.io/)
 
 Queremos anunciar 3 actividades independientes en las que participa el grupo *Bayes de Las Provincias Unidas Del Sur*.
