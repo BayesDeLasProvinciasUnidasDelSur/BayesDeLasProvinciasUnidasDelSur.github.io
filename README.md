@@ -1,7 +1,9 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/glandfried/images/master/inti.png" style="width: 30%;"/>
+  <img href="https://bayesdelasprovinciasunidasdelsur.github.io/" src="https://raw.githubusercontent.com/glandfried/images/master/inti.png" style="width: 29%;"/>
+  <img src="https://raw.githubusercontent.com/glandfried/images/master/pachacuteckoricancha.jpg" style="width: 20%;"/>
 </p>
+
 
 ### El grupo *Bayes de la Provincias Unidas del Sur* apoya:
 
@@ -25,7 +27,4 @@ Organiza la [**Comunidad Bayesiana Plurinacional**](https://comunidadbayesianapl
 
 ----------------------------------
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/glandfried/images/master/pachacuteckoricancha.jpg" style="width: 30%;"/>
-</p>
-
+Contacto `bayesdelsur@gmail.com`
