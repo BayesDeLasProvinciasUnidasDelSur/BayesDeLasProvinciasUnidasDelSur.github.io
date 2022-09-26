@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/glandfried/images/master/inti.png" style="width: 30%;"/>
 </p>
 
-El grupo **Bayes de la Provincias Unidas del Sur** apoya:
+### El grupo *Bayes de la Provincias Unidas del Sur* apoya:
 
 [Seminario Verdades Empíricas](https://verdadesempiricas.github.io/) |  [Proyecto Pacha Suyus](https://PachaSuyus.github.io/) | [Laboratorio PaqtaRayku](https://https://PaqtaRayku.github.io/)
 :-------------------------:|:-------------------------:|:-------------------------:
