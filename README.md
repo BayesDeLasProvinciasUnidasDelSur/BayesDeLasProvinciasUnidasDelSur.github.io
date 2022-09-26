@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img href="https://bayesdelasprovinciasunidasdelsur.github.io/" src="https://raw.githubusercontent.com/glandfried/images/master/inti.png" style="width: 35%;"/>
-  <img src="https://raw.githubusercontent.com/glandfried/images/master/pachacuteckoricancha.jpg" style="width: 24%;"/>
+  <img href="https://bayesdelasprovinciasunidasdelsur.github.io/" src="https://raw.githubusercontent.com/glandfried/images/master/inti.png" style="width: 38%;"/>
+  <img src="https://raw.githubusercontent.com/glandfried/images/master/pachacuteckoricancha.jpg" style="width: 26%;"/>
 </p>
 
 
