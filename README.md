@@ -7,7 +7,7 @@
 
 ### El grupo *Bayes de la Provincias Unidas del Sur* apoya:
 
-[Seminario Verdades Empíricas](https://verdadesempiricas.github.io/) |  [Proyecto Pacha Suyus](https://PachaSuyus.github.io/) | [Laboratorio PaqtaRayku](https://https://PaqtaRayku.github.io/)
+[Seminario Verdades Empíricas](https://verdadesempiricas.github.io/) |  [Proyecto Pacha Suyus](https://PachaSuyus.github.io/) | [Laboratorio PaqtaRayku](https://PaqtaRayku.github.io/)
 :-------------------------:|:-------------------------:|:-------------------------:
 Epistemología y metodología | Metodología y aplicaciones | Aplicaciones y herramientas
 Fundamento para alcanzar acuerdos intersubjetivos en contextos de incertidumbre | Evaluación de modelos causales alternativos históricos reales | Desarrollo de un *framework* para la especificación colaborativa de modelos causales
