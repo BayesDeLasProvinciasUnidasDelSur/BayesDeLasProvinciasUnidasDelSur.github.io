@@ -8,8 +8,8 @@ El grupo **Bayes de la Provincias Unidas del Sur** participa de:
 [Verdades Empíricas](https://verdadesempiricas.github.io/) |  [Pacha Suyus](https://PachaSuyus.github.io/) | [Comunidad Bayesiana Plurinacional](https://comunidadbayesianaplurinacional.github.io/)
 :-------------------------:|:-------------------------:|:-------------------------:
 Teórica: epistemología y metodología | Práctica: metodología y aplicaciones | Laboratorio: aplicaciones y herramientas
-Fundamento para alcanzar acuerdos intersubjetivos en contextos de incertidumbre | Especificación y evaluación del valor de verdad de modelos causales alternativos | Desarrollo de un *framework* para la descripción colaborativa de modelos causales
-[![Comunidad](static/pEQb.png)](https://verdadesempiricas.github.io/) | [![Comunidad](static/blecha.png)](https://PachaSuyus.github.io/) | [![Comunidad](static/bayes.png)](https://comunidadbayesianaplurinacional.github.io/)
+Fundamento para alcanzar acuerdos intersubjetivos en contextos de incertidumbre | Evaluación del valor de verdad de modelos causales alternativos reales | Desarrollo de un *framework* para la especificación colaborativa de modelos causales
+[![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/pEQb.png)](https://verdadesempiricas.github.io/) | [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/blecha.png)](https://PachaSuyus.github.io/) | [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/balanza_cerca.png)](https://Paqtachay.github.io/)
 
 Queremos anunciar 3 actividades independientes en las que participa el grupo *Bayes de Las Provincias Unidas Del Sur*.
 
