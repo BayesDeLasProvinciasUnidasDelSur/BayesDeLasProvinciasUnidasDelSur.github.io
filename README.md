@@ -5,15 +5,15 @@
 
 El grupo **Bayes de la Provincias Unidas del Sur** participa de:
 
-[Verdades Empíricas](https://verdadesempiricas.github.io/) |  [Pacha Suyus](https://PachaSuyus.github.io/) | [Comunidad Bayesiana Plurinacional](https://comunidadbayesianaplurinacional.github.io/)
+[Verdades Empíricas](https://verdadesempiricas.github.io/) |  [Pacha Suyus](https://PachaSuyus.github.io/) | [Laboratorio Paqtachay](https://https://Paqtachay.github.io/)
 :-------------------------:|:-------------------------:|:-------------------------:
 Teórica: epistemología y metodología | Práctica: metodología y aplicaciones | Laboratorio: aplicaciones y herramientas
 Fundamento para alcanzar acuerdos intersubjetivos en contextos de incertidumbre | Evaluación del valor de verdad de modelos causales alternativos reales | Desarrollo de un *framework* para la especificación colaborativa de modelos causales
 [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/pEQb.png)](https://verdadesempiricas.github.io/) | [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/blecha.png)](https://PachaSuyus.github.io/) | [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/balanza_cerca.png)](https://Paqtachay.github.io/)
 
-Queremos anunciar 3 actividades independientes en las que participa el grupo *Bayes de Las Provincias Unidas Del Sur*.
+## Congreso Bayesiano Plurinacional 2023.
 
-## 1. Congreso Bayesiano Plurinacional 2023.
+[![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/CBP.png)](https://comunidadbayesianaplurinacional.github.io/)
 
 - **Eventos**: El congreso es el evento principal, pero está precidido de las reflexiones 2022-2023 con trabajadores de la ciencia: "Construcción de acuerdos intersubjetivos en contextos se incertidumbre".
 - **Cuándo**: El 4 y 5 se agosto 2023 y eventos virtuales mensuales previos.
