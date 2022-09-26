@@ -7,7 +7,7 @@
 
 [Seminario Verdades Empíricas](https://verdadesempiricas.github.io/) |  [Proyecto Pacha Suyus](https://PachaSuyus.github.io/) | [Laboratorio PaqtaRayku](https://https://PaqtaRayku.github.io/)
 :-------------------------:|:-------------------------:|:-------------------------:
-Teórica: epistemología y metodología | Práctica: metodología y aplicaciones | Laboratorio: aplicaciones y herramientas
+Epistemología y metodología | Metodología y aplicaciones | Aplicaciones y herramientas
 Fundamento para alcanzar acuerdos intersubjetivos en contextos de incertidumbre | Evaluación de modelos causales alternativos históricos reales | Desarrollo de un *framework* para la especificación colaborativa de modelos causales
 [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/pEQb_400.png)](https://verdadesempiricas.github.io/) | [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/blecha.png)](https://PachaSuyus.github.io/) | [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/balanza_cerca.png)](https://PaqtaRayku.github.io/)
 
