@@ -4,13 +4,17 @@
   <img src="https://raw.githubusercontent.com/glandfried/images/master/pachacuteckoricancha.jpg" style="width: 26%;"/>
 </p>
 
-### The group *Bayes de la Provincias Unidas del Sur* supports:
+## The group *Bayes de la Provincias Unidas del Sur* supports:
 
-[Empirical Truths Seminar](https://MetodosBayesianos.github.io/seminario) |  [Pacha Suyus Proyect](https://MetodosBayesianos.github.io/apuestas) | [PaqtaRayku Laboratory](https://MetodosBayesianos.github.io/taller)
+### The [**Bayesian Methods Lab**](https://MetodosBayesianos.github.io/)
+
+The Bayesian Methods Lab works on the technical, practical and theoretical aspects of the Bayesian approach to probability theory, developing methods to optimally solve empirical problems in industry, politics and ecology.
+
+[Empirical Truths Seminar](https://MetodosBayesianos.github.io/seminario) |  [Pacha Suyus Models](https://MetodosBayesianos.github.io/modelos) | [PaqtaRayku Workshop](https://MetodosBayesianos.github.io/taller)
 :-------------------------:|:-------------------------:|:-------------------------:
 Epistemology and methodology | Methodology and applications | Applications and tools
 Conceptual foundation of intersubjective agreements in contexts of uncertainty | Evaluation of real historical alternative causal models | Tools for collaborative specification of competing causal models
-[![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/pEQb_400.png)](https://MetodosBayesianos.github.io/seminario) | [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/PdivB.png)](https://MetodosBayesianos.github.io/apuestas) | [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/balanza_cerca.png)](https://MetodosBayesianos.github.io/taller)
+[![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/pEQb_400.png)](https://MetodosBayesianos.github.io/seminario) | [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/PdivB.png)](https://MetodosBayesianos.github.io/modelos) | [![Comunidad](https://raw.githubusercontent.com/glandfried/images/master/logos/balanza_cerca.png)](https://MetodosBayesianos.github.io/taller)
 
 ## Towards the [**Plurinational Bayesian Congress**](https://bayesdelsur.com.ar/index_en.html) 2023.
 
